@@ -1,0 +1,2 @@
+# New-Alien-Invasion
+A simple game made with the help of ‘pygames’,  Using of 'image.load' add background image and use of 'mixer' add background music. An alien,ship game where ship fire bullet on alien and alien move right and left when they touch edges .I come down side  and ship Continuously fire . If alien touch the ship then your  game is over and new screen you can see game over text, score and quit button.
